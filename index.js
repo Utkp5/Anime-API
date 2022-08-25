@@ -10,7 +10,7 @@ const colorChange = () =>
     btn.style.backgroundColor = "#" + colorChange;
 }
 
-const clickNext = async () => 
+const clickNext = async () =>  
 {
     colorChange();
     let url = await fetch("https://animechan.vercel.app/api/random");

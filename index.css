@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Mukta&display=swap");
 * {
   margin: 0;
-  font-family: 'Mukta', sans-serif;
+  font-family: "Mukta", sans-serif;
 }
 h1 {
   text-align: center;
@@ -20,12 +20,12 @@ h1 {
   margin-top: 6vh;
 }
 .Quote {
-    height: 35vh;
-    width: 70vw;
-    margin-left: 73ve;
-    margin-top: 4vh;
-    margin-left: 13vw;
-    font-size: 3vh;
+  height: 35vh;
+  width: 70vw;
+  margin-left: 73ve;
+  margin-top: 4vh;
+  margin-left: 13vw;
+  font-size: 3vh;
 }
 #button {
   padding: 1vh 5vw;
@@ -36,7 +36,7 @@ h1 {
   margin: 5vh 42vw;
   cursor: pointer;
 }
-#button:hover{
-    transform: scale(1.1);    
-    transition: all 0.5s;
+#button:hover {
+  transform: scale(1.1);
+  transition: all 0.5s;
 }
