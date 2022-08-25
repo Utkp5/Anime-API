@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
+* {
+  margin: 0;
+  font-family: 'Mukta', sans-serif;
+}
+h1 {
+  text-align: center;
+}
+.Anime {
+  height: 7vh;
+  width: 40vw;
+  margin: 6vh 29vw;
+  font-size: 5vh;
+}
+.Character {
+  height: 7vh;
+  width: 40vw;
+  font-size: 5vh;
+  margin-left: 29vw;
+  margin-top: 6vh;
+}
+.Quote {
+    height: 35vh;
+    width: 70vw;
+    margin-left: 73ve;
+    margin-top: 4vh;
+    margin-left: 13vw;
+    font-size: 3vh;
+}
+#button {
+  padding: 1vh 5vw;
+  font-size: x-large;
+  border: 1px solid gainsboro;
+  border-radius: 16px;
+  outline: none;
+  margin: 5vh 42vw;
+  cursor: pointer;
+}
+#button:hover{
+    transform: scale(1.1);    
+    transition: all 0.5s;
+}
